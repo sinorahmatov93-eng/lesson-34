@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+}
+
+.sec1{
+    display: flex;
+    background-color: #2A254B;
+    color: white;
+    margin: 50px;
+    article{
+        padding: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+        h1{
+            font-size: 32px;
+            padding-bottom: 40px;
+            width: 60%;
+        }
+
+        button{
+                background-color: #f9f9f926;
+                padding: 10px 20px;
+                border: none;
+                color: white;
+        }
+
+        p{
+            width: 60%;
+        }
+
+        .btn{
+            display: none;
+        }
+}
+
+.box{
+    text-align: center;
+    font-size: 35px;
+}
+
+.box2{
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.container{
+    display: flex;
+    gap: 40px;
+}
+
+.box4{
+    margin-left: 50px;
+    padding: 20px; 
+}
+
+.box5{
+    width: 60%;
+    margin-left: 70px;
+}
+
+.box9{
+    padding: 40px;
+    margin-left: 50px;
+}
+
+.container1{
+    display: flex;
+    gap: 40px;
+}
+
+.box10{
+    margin-left: 40px;
+}
+
+.box11{
+    padding: 10px;
+}
+
+.box12{
+    padding: 10px;
+    color: gray;
+}
+
+.box16{
+    width: 400px;
+}
+
+.box14{
+    color: gray;
+    padding: 10px;
+}
+
+.box15{
+    padding: 10px;
+}
+
+.box19{
+    width: 172px;
+    height: 56px;
+    margin-left: 890px;
+}
+
+.box20{
+    display: flex;
+    align-items: center;
+}
+
+.box21{
+    padding: 30px;
+}
+
+.box23{
+    padding: 20px;
+}
+
+.box24{
+    color: gray;
+    padding: 20px;
+}
+
+.box25{
+    width: 150px;
+    height: 56px;
+    margin-left: 20px;
+}
